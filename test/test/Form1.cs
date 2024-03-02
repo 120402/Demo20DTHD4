@@ -6,5 +6,10 @@ namespace test
         {
             InitializeComponent();
         }
+
+        private void UserName_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
