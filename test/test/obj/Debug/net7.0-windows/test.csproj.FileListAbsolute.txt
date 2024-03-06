@@ -1,0 +1,17 @@
+D:\HUTECH\Nam_4\Công Cụ Và Môi Trường Phát Triển Phần Mềm\Demo\Demo20DTHD4\test\test\bin\Debug\net7.0-windows\test.exe
+D:\HUTECH\Nam_4\Công Cụ Và Môi Trường Phát Triển Phần Mềm\Demo\Demo20DTHD4\test\test\bin\Debug\net7.0-windows\test.deps.json
+D:\HUTECH\Nam_4\Công Cụ Và Môi Trường Phát Triển Phần Mềm\Demo\Demo20DTHD4\test\test\bin\Debug\net7.0-windows\test.runtimeconfig.json
+D:\HUTECH\Nam_4\Công Cụ Và Môi Trường Phát Triển Phần Mềm\Demo\Demo20DTHD4\test\test\bin\Debug\net7.0-windows\test.dll
+D:\HUTECH\Nam_4\Công Cụ Và Môi Trường Phát Triển Phần Mềm\Demo\Demo20DTHD4\test\test\bin\Debug\net7.0-windows\test.pdb
+D:\HUTECH\Nam_4\Công Cụ Và Môi Trường Phát Triển Phần Mềm\Demo\Demo20DTHD4\test\test\obj\Debug\net7.0-windows\test.csproj.AssemblyReference.cache
+D:\HUTECH\Nam_4\Công Cụ Và Môi Trường Phát Triển Phần Mềm\Demo\Demo20DTHD4\test\test\obj\Debug\net7.0-windows\test.Form1.resources
+D:\HUTECH\Nam_4\Công Cụ Và Môi Trường Phát Triển Phần Mềm\Demo\Demo20DTHD4\test\test\obj\Debug\net7.0-windows\test.csproj.GenerateResource.cache
+D:\HUTECH\Nam_4\Công Cụ Và Môi Trường Phát Triển Phần Mềm\Demo\Demo20DTHD4\test\test\obj\Debug\net7.0-windows\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUTECH\Nam_4\Công Cụ Và Môi Trường Phát Triển Phần Mềm\Demo\Demo20DTHD4\test\test\obj\Debug\net7.0-windows\test.AssemblyInfoInputs.cache
+D:\HUTECH\Nam_4\Công Cụ Và Môi Trường Phát Triển Phần Mềm\Demo\Demo20DTHD4\test\test\obj\Debug\net7.0-windows\test.AssemblyInfo.cs
+D:\HUTECH\Nam_4\Công Cụ Và Môi Trường Phát Triển Phần Mềm\Demo\Demo20DTHD4\test\test\obj\Debug\net7.0-windows\test.csproj.CoreCompileInputs.cache
+D:\HUTECH\Nam_4\Công Cụ Và Môi Trường Phát Triển Phần Mềm\Demo\Demo20DTHD4\test\test\obj\Debug\net7.0-windows\test.dll
+D:\HUTECH\Nam_4\Công Cụ Và Môi Trường Phát Triển Phần Mềm\Demo\Demo20DTHD4\test\test\obj\Debug\net7.0-windows\refint\test.dll
+D:\HUTECH\Nam_4\Công Cụ Và Môi Trường Phát Triển Phần Mềm\Demo\Demo20DTHD4\test\test\obj\Debug\net7.0-windows\test.pdb
+D:\HUTECH\Nam_4\Công Cụ Và Môi Trường Phát Triển Phần Mềm\Demo\Demo20DTHD4\test\test\obj\Debug\net7.0-windows\test.genruntimeconfig.cache
+D:\HUTECH\Nam_4\Công Cụ Và Môi Trường Phát Triển Phần Mềm\Demo\Demo20DTHD4\test\test\obj\Debug\net7.0-windows\ref\test.dll
